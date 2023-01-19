@@ -364,7 +364,7 @@ ol li, ul li { margin-bottom: 10px; }
 /*----------------------------------------*/
 /*----- 10 Header -----*/
 /*----------------------------------------*/
-#dtr-header-global { padding: 40px 0; display: block; }
+#dtr-header-global { padding: 20px 0; display: block; }
 #dtr-header-global.on-scroll { padding: 20px 0; box-shadow: 0 2px 15px 0 rgba(0,0,0,.03); z-index: 999; }
 .dtr-header-left { min-width: 110px; /* if long menu - set min-width equal to logo width for actual size logo */ }
 .dtr-header-right { margin-left: 30px; }
